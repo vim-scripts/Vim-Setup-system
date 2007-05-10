@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1894
+
+This script is a modified version of the Setup script created by Jos van RisWick and which can be found here: 
+http://www.xs4all.nl/~josvanr/vim/setup.vim
+
+Modifications:
+- This package includes all the external scripts needed in order to make this script work.
+- All scripts are modified such that they expect to find the other scripts in the plugin folder in vimhome instead of in the users home directory. 
+- fixed an incompatibility with vim 7.0 and newer
+Please see Jos' site for more info about the script. 
